@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lbarto12
 - 👀 I’m interested in math, science, programing, and music
-- 🌱 I’m currently learning C++, Java, Python, and Javascript
 - 💞️ I’m looking to collaborate on anything interesting!
 - 📫 How to reach me: lbarto12@hotmail.com
 
